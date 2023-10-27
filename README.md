@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&duration=3000&pause=50&color=FF6347&random=false&width=435&lines=Hello!;My+name+is+Lisa+Zhu.;Welcome+to+my+GitHub+page!)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&duration=3000&pause=50&color=FF6347&random=false&width=435&lines=Hello!;My+name+is+Lisa+Zhu.;Welcome+to+my+GitHub+page!)
 
 <p align="center">
   <a href="https://github.com/yurkuul/">
@@ -13,11 +13,11 @@
 ---
 
 <h1>
-  Some stats:
+  My stats:
 </h1>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/yurkuul?cardType=level&theme=dracula&preferLogin=false)](https://git.io/awesome-stats-card)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurkuul&langs_count=10&theme=dracula)
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/yurkuul?cardType=level&theme=dracula&preferLogin=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurkuul&langs_count=10&theme=dracula&layout=compact)
 
 
 <h1>
